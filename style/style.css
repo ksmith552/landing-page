@@ -151,3 +151,43 @@ ol {
     border-radius: 5px;
 }
 
+.quote-background {
+    background-color: #E5E7EB;
+
+}
+
+.quote-container {
+    display: flex;
+    
+    max-width: 1000px;
+    font-style: italic;
+    font-size: 32px;
+    color: #1F2937;
+    background-color: #E5E7EB;
+    margin: auto;
+    flex-direction: column;
+   
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+#author {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 100px;
+    
+}    
+
+
+
+
+
+
+
+
+
