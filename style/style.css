@@ -12,13 +12,14 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #3AE226;
     padding: 42px;
+    color: #572C1A;
     
 }
 
 #header-logo {
-    color: #f9faf8;
+    color: #572C1A;
     font-size: 28px;
     font-weight: 900;
     display: flex;
@@ -35,7 +36,7 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 20px;
-    color: #e5e7eb
+    color: #572C1A;
     
 }
 
@@ -48,7 +49,7 @@ ul {
     gap: 100px;
     justify-content: center;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #572C1A;
     
 }
 
@@ -62,8 +63,9 @@ ul {
     display: flex;
     gap: 60px;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #572C1A;
     margin-bottom: 100px;
+    margin-top: 100px;
 }
 
 .button {
@@ -250,6 +252,8 @@ h3 {
     color:#E5E7EB;
     font-size: 14px;
     justify-content: center;
+    background-color: #3AE226;
+    color: #572C1A;
 }
 
 
